@@ -1,0 +1,15 @@
+table{
+	background: #DDDDDD;
+	border: solid #000000 1px;
+}
+table td{
+	padding: 5px;
+}
+table #label{
+	color: #990000;
+	font-weight: bold;
+}
+table input {
+	background: #bbbbbb;
+	
+}
